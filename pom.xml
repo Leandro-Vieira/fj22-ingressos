@@ -166,5 +166,13 @@
             </plugin>
         </plugins>
     </build>
+    
+    <!-- restante omitido...-->
+     <developers>
+      <developer>
+       		<name>Leandro Vieira</name>
+       		<email>leandro.internacional@gmail.com</email>
+      </developer>
+     </developers>  		
 
 </project>
